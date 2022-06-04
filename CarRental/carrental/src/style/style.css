@@ -1,0 +1,141 @@
+.Logo {
+    background-image: url(../img/Rectangle\ 2.png);
+  }
+  .container-fluid{
+      height: 1000px;
+  }
+  .marketingdiv{
+      height: 500px;
+      width: 500px;
+      background-color: white;
+      opacity: 0.6;
+      margin-top:50px;
+      margin-left: 50px;
+      text-align: center;
+  }
+  .rentbutton{
+      margin-top: 200px;
+      height: 50px;
+      width: 200px;
+      background-color: white;
+      border: solid 1px;
+
+  }
+  .anotherdiv{
+    height: 700px;
+    width: 100%;
+    background-color: whitesmoke;
+    margin-top: 380px;
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .nav{
+      height: 100px;
+      background-color: white;
+      opacity: 80%;
+  }
+  .navbutton{
+      margin-right: 50px;
+      width: 200px;
+      height: 50px;
+      opacity: 1;
+  }
+  .navlinks{
+      margin-left: 20px;
+      width: 100px;
+      text-decoration: none;
+      font-weight: 500;
+  }
+  .pdiv p{
+      padding-top: 100px;
+      word-spacing: 5px;
+      font-size: 35px;
+      color: black;
+      font-weight: 600;
+  }
+  .shtoveture{
+      background-color: rgb(129, 122, 122);
+  }
+  .mt-4{
+    width: 100%;
+    background-color: white;
+    text-align: center;
+  }
+  .editbutton {
+      margin-left: 10px;
+      width: 100px;
+  }
+  .deletebutton{
+    margin-left: 10px;
+    width: 100px;
+  }
+  .registerForm{
+      width: 600px;
+      height: 500px;
+      background-color: white;
+      border: solid 1px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      
+  }
+  .registerForm1{
+    width: 800px;
+    height: 600px;
+    background-color: white;
+    border: solid 1px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: auto;
+    margin-top: 50px;
+  }
+  .inputs{
+    width: 200px;
+    height: 50px;
+  }
+  .inputs1{
+    width: 300px;
+    height: 50px;
+  }
+
+  .longinputs1{
+    width: 700px;
+    height: 50px;
+}
+.datapolicy{
+    font-size: small;
+    width: 700px;
+}
+.longinputs{
+    width: 500px;
+    height: 50px;
+}
+    
+  .registerbutton
+  {
+      width: 200px;
+      height: 50px;
+      border: solid 1px;
+      
+  }
+  .registerP{
+      width: 100%;
+      height: 20px;
+      margin-left: 50px;
+      margin-top: 20px;
+      font-size: 20px;
+      font-weight: 500;
+  }
+  .sloganDiv{
+    width: 600px;
+    height: 500px;
+    text-align: left;
+    
+  }
+  .sloganDiv p{
+      font-size: 50px;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+      margin-top: 150px;
+  }

@@ -16,16 +16,19 @@ select * from Car_Category
  insert into Cars (VIN, Car_Description, Model, Brand, Color, Purchase_Date, Category_ID) values(5232529, '2.5 Diesel', 'A4', 'Opel', 'Bardhe', '01-05-2022', 3);
  insert into Cars (VIN, Car_Description, Model, Brand, Color, Purchase_Date, Category_ID) values(3253523, '4.2', 'A8L', 'Audi', 'Jeshile', '05-05-2021', 1);
 
- select * from Cars
- 
+ select id from users where Username = 'Arlind', Password = 'Lindi'
+                         Select Username from dbo.Users where
+                        Username = 'Arlind'and Password = 'Arlind123'
+						drop table Users
  create table Users(
-	ID int identity(1,1) PRIMARY KEY,
-	Emri varchar(255) not null,
+	ID varchar(255) PRIMARY KEY,
+	Username varchar(255) not null,
 	Mbiemri varchar(255) not null,
+	Role varchar(255) not null,
 	Email varchar(255) not null,
 	Password varchar(255) not null
  );
- insert into Users values('Arlind', 'Aliu', 'aa51044@ubt-uni.net', 'Arlind123');
+ insert into Users values('1', 'Arlind', 'Aliu','1', 'aa51044@ubt-uni.net', 'Arlind123');
  create table Cars(
  VIN int PRIMARY KEY,
  Car_Description varchar (255),

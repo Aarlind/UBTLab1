@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arlin\\Desktop\\Semestri 4\\Lende Laboratorike\\CarRental\\CarRental\\CarRental.csproj": {}
+    "C:\\Users\\arlin\\Desktop\\LabC1Project\\UBTLab1\\CarRental\\CarRental.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arlin\\Desktop\\Semestri 4\\Lende Laboratorike\\CarRental\\CarRental\\CarRental.csproj": {
+    "C:\\Users\\arlin\\Desktop\\LabC1Project\\UBTLab1\\CarRental\\CarRental.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arlin\\Desktop\\Semestri 4\\Lende Laboratorike\\CarRental\\CarRental\\CarRental.csproj",
+        "projectUniqueName": "C:\\Users\\arlin\\Desktop\\LabC1Project\\UBTLab1\\CarRental\\CarRental.csproj",
         "projectName": "CarRental",
-        "projectPath": "C:\\Users\\arlin\\Desktop\\Semestri 4\\Lende Laboratorike\\CarRental\\CarRental\\CarRental.csproj",
+        "projectPath": "C:\\Users\\arlin\\Desktop\\LabC1Project\\UBTLab1\\CarRental\\CarRental.csproj",
         "packagesPath": "C:\\Users\\arlin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arlin\\Desktop\\Semestri 4\\Lende Laboratorike\\CarRental\\CarRental\\obj\\",
+        "outputPath": "C:\\Users\\arlin\\Desktop\\LabC1Project\\UBTLab1\\CarRental\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arlin\\AppData\\Roaming\\NuGet\\NuGet.Config",

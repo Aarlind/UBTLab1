@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VE1Jmzt5z6nr2mt/rTJY4poeQQOk9L9ly6E93GUyUYRb/rQEBanUkzdZSZi079CHciRnNdh3yhNr7hHVwtP9Vw==",
+  "dgSpecHash": "sdIY9bZeoCYHW0DtKDfyHReGYHVbf1G5BGeQ2fnlrn2bA5miAcFe1ms7pVchCl4Dzq57LM855MAZ16fHDEIHzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arlin\\Desktop\\Semestri 4\\Lende Laboratorike\\CarRental\\CarRental\\CarRental.csproj",
+  "projectFilePath": "C:\\Users\\arlin\\Desktop\\LabC1Project\\UBTLab1\\CarRental\\CarRental.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arlin\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.25\\microsoft.aspnetcore.authentication.jwtbearer.3.1.25.nupkg.sha512",
     "C:\\Users\\arlin\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.24\\microsoft.aspnetcore.cryptography.internal.3.1.24.nupkg.sha512",
